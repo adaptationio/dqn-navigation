@@ -29,7 +29,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 	```
 - Install requirements:
     ```bash
-    clone git https://github.com/adaptationai/dqn-navigation.git
+    clone git https://github.com/adaptationio/dqn-navigation.git
     cd dqn-navigation
 	pip install .
 	```
@@ -49,4 +49,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 	jupyter notebook
 	```
     Open results.ipynb and run code cells in order
+
+
+
 
